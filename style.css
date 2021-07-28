@@ -1,0 +1,10 @@
+h1{
+color: red;
+background-color: black;
+}
+#image1{border-style: double;
+border-width:5px;
+border-color:black ;
+border-radius: 10%;
+}
+
